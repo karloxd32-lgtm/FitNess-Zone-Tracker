@@ -1,0 +1,6 @@
+fastapi
+supabase
+passlib[bcrypt]
+PyJWT
+pydantic
+email-validator
